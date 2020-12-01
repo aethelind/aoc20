@@ -23,7 +23,7 @@ println expense_2(data)
 
 // part two
 // https://adventofcode.com/2020/day/1#part2
-// my ans: 193598720
+// my ans: 193598720 = 248 x 820 x 952
 
 // find three entries that add to 2020
 def expense_3(data) {
